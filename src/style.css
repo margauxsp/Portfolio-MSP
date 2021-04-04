@@ -111,4 +111,7 @@ p {
     text-align: center;
     margin: 0 20px;
   }
+  .email-link {
+    font-size: 24px;
+  }
 }
